@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Runledge/runledge",
+  "title": "Runledge",
+  "description": "Runledge is the approval gate for AI agents. Rules check every action before it runs.",
+  "version": "1.0.0",
+  "websiteUrl": "https://runledge.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://runledge.com/mcp"
+    }
+  ]
+}
